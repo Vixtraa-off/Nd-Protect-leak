@@ -9,7 +9,7 @@
 - [⚙️・Setting up](#setup)
 - [💼・Term](#terms)
 - [🕵️‍♂️・Authors](#authors)
-- [🪄・Discord](https://discord.gg/uhq)
+- [🪄・Discord][discord.gg/newbuild](https://discord.gg/jSvYxahuYH)
 
 ## <a id="deploys"></a>📩 〢 Deploys
 [![Deploy](https://raw.githubusercontent.com/Nekros-dsc/deploy-buttons/main/buttons/remade/replit.svg)](https://replit.com/github.com/Ruwin-dsc/NdProtect)
