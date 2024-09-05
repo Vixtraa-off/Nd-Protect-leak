@@ -9,7 +9,7 @@
 - [⚙️・Setting up](#setup)
 - [💼・Term](#terms)
 - [🕵️‍♂️・Authors](#authors)
-- [🪄・Discord][discord.gg/newbuild](https://discord.gg/jSvYxahuYH)
+- [🪄・Discord] [discord.gg/newbuild](https://discord.gg/jSvYxahuYH)
 
 ## <a id="deploys"></a>📩 〢 Deploys
 [![Deploy](https://raw.githubusercontent.com/Nekros-dsc/deploy-buttons/main/buttons/remade/replit.svg)](https://replit.com/github.com/Ruwin-dsc/NdProtect)
@@ -25,7 +25,7 @@
 1. Install [NodeJS](https://nodejs.org/)
 2. Install [Files](https://github.com/Ruwin-dsc/NdProtect/archive/refs/heads/main.zip)
 3. Complete the configuration
-4. Setup the database, for help click [here](https://gist.github.com/Ruwin-dsc/9187697ae53037751cae0e590d20a5ac)
+4. Setup the database, for help click [here](https://github.com/Vixtraa-off/Nd-Protect-leak/tree/main/DataBase)
 5. Enjoy the tool
 
 ### <a id="terms"></a>💼 〢 Terms Of Usage
@@ -35,7 +35,9 @@
 - [x] We are NOT responsible of anything you do with our software (if its illegal).
 
 ### <a id="authors"></a>🕵️‍♂️ 〢 Authors
-- [Ruwin](https://github.com/Ruwin-dsc)
+- [Ruwin]
 
 Merci à .crackk et snwenrs7 de m'avoir aidé
+
+Script by Ruwin.
 ---
